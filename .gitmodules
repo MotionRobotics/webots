@@ -13,3 +13,9 @@
 [submodule "resources/webots_ros"]
 	path = resources/webots_ros
 	url = https://github.com/cyberbotics/webots_ros
+[submodule "projects/inteliports-sim"]
+	path = projects/inteliports-sim
+	url = git@github.com:MotionRobotics/inteliports-sim.git
+[submodule "projects/autolase-sim"]
+	path = projects/autolase-sim
+	url = git@github.com:MotionRobotics/autolase-sim.git
